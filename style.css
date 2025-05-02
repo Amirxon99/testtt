@@ -1,0 +1,27 @@
+
+body{
+    background-color: rgb(243, 243, 243);
+}
+.a{
+    background-color: darkslateblue;
+    padding: 30px;
+    text-align: center;
+    color: white;
+    border-radius: 15px;
+}
+.b{
+    background-color: white;
+    padding: 30px;
+    text-align: center;
+    border-radius: 20px;
+}
+.c{
+    background-color: aquamarine;
+    padding: 30px;
+    border-radius: 20px;
+}
+.c1{
+    padding-left: 10px;
+    color: red;
+    border-left: 2px solid blue;
+}
